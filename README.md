@@ -1,7 +1,5 @@
 # A Node.js Magi Client!
 
-![Magi](https://raw.githubusercontent.com/magi-project/node-magi/master/node-magi.png)
-
 node-magi is a Magi client for Node.js. It is a fork of the excellent Kapitalize Bitcoin Client (now removed from GitHub) intended for use with Magi. The purpose of this repository is:
 
 * Provide a one-stop resource for the Node.js developer to get started with Magi integration.
