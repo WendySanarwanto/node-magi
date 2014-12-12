@@ -1,0 +1,12 @@
+{
+    "name": "node-magi",
+    "version": "0.3.9",
+    "description": "Magi client",
+    "keywords": ["magi"],
+    "repository": "git://github.com/magi-project/node-magi.git",
+    "main": "lib/magi.js",
+    "engines": { "node": ">= 0.4.0" },
+    "devDependencies": {
+        "nodeunit": "*"
+    }
+}
